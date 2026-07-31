@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "img": "images/feedback2.jpg",
+        "stars": 5,
+        "category": "feedback"
+    },
+    {
+        "id": 2,
+        "img": "images/feedback3.jpg",
+        "stars": 5,
+        "category": "feedback"
+    },
+    {
+        "id": 3,
+        "img": "images/feedback4.jpg",
+        "stars": 5,
+        "category": "feedback"
+    },
+    {
+        "id": 4,
+        "img": "images/feedback5.jpg",
+        "stars": 5,
+        "category": "feedback"
+    },
+    {
+        "id": 5,
+        "img": "images/feedback6.jpg",
+        "stars": 5,
+        "category": "feedback"
+    },
+    {
+        "id": 6,
+        "img": "images/feedback7.jpg",
+        "stars": 5,
+        "category": "feedback"
+    },
+    {
+        "id": 7,
+        "img": "images/feedback8.jpg",
+        "stars": 5,
+        "category": "feedback"
+    },
+    {
+        "id": 8,
+        "img": "images/feedback9.jpg",
+        "stars": 5,
+        "category": "feedback"
+    },
+    {
+        "id": 9,
+        "img": "images/feedback10.jpg",
+        "stars": 5,
+        "category": "feedback"
+    },
+    {
+        "id": 10,
+        "img": "images/feedback11.jpg",
+        "stars": 5,
+        "category": "feedback"
+    },
+    {
+        "id": 11,
+        "img": "images/feedback12.jpg",
+        "stars": 5,
+        "category": "feedback"
+    },
+    {
+        "id": 12,
+        "img": "images/feedback13.jpg",
+        "stars": 5,
+        "category": "feedback"
+    },
+    {
+        "id": 13,
+        "img": "images/feedback14.jpg",
+        "stars": 5,
+        "category": "feedback"
+    }
+]

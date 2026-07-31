@@ -1,0 +1,210 @@
+[
+    {
+        "id": 0,
+        "img": "images/c4.png",
+        "name": "Resin Coaster Set - Sea Colors",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "coasters"
+    },
+    {
+        "id": 1,
+        "img": "images/c5.png",
+        "name": "3-Tier Coaster Set",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "holders"
+    },
+    {
+        "id": 2,
+        "img": "images/c6.png",
+        "name": "Handmade Coastar Set",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "coasters"
+    },
+    {
+        "id": 3,
+        "img": "images/c7.png",
+        "name": "Round Wooden Coaster Set",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "coasters"
+    },
+    {
+        "id": 4,
+        "img": "images/c8.png",
+        "name": "Marble Resin Coaster Set",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "coasters"
+    },
+    {
+        "id": 5,
+        "img": "images/c9.png",
+        "name": "Premium Resin Coaster Set",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "coasters"
+    },
+    {
+        "id": 6,
+        "img": "images/c10.png",
+        "name": "Wood Slice Coaster",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "coasters"
+    },
+    {
+        "id": 7,
+        "img": "images/c11.png",
+        "name": "Natural Wood Coaster",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "coasters"
+    },
+    {
+        "id": 8,
+        "img": "images/c12.png",
+        "name": "Resin Wood Coaster",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "coasters"
+    },
+    {
+        "id": 9,
+        "img": "images/c14.png",
+        "name": "Black Epoxy Coaster",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "coasters"
+    },
+    {
+        "id": 10,
+        "img": "images/c16.png",
+        "name": "Round Black Coaster",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "coasters"
+    },
+    {
+        "id": 11,
+        "img": "images/c17.png",
+        "name": "Wooden Engraved Coaster",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "coasters"
+    },
+    {
+        "id": 12,
+        "img": "images/w1.png",
+        "name": "Abstract Wall Art",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "wall arts"
+    },
+    {
+        "id": 13,
+        "img": "images/w2.png",
+        "name": "Wooden Wall Art",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "wall arts"
+    },
+    {
+        "id": 14,
+        "img": "images/clock1.png",
+        "name": "Leaf Wall Clock",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "clocks"
+    },
+    {
+        "id": 15,
+        "img": "images/clock2.png",
+        "name": "Marble Wall Clock",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "clocks"
+    },
+    {
+        "id": 16,
+        "img": "images/d1.png",
+        "name": "Black Domino Set",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "dominos"
+    },
+    {
+        "id": 17,
+        "img": "images/f1.png",
+        "name": "Rectangle Flower Box",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "flower boxes"
+    },
+    {
+        "id": 18,
+        "img": "images/f2.png",
+        "name": "Classic Flower Box",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "flower boxes"
+    },
+    {
+        "id": 19,
+        "img": "images/f3.png",
+        "name": "Luxury Flower Box",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "flower boxes"
+    },
+    {
+        "id": 20,
+        "img": "images/h1.png",
+        "name": "3-Tier Serving Stand",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "holders"
+    },
+    {
+        "id": 21,
+        "img": "images/h3.png",
+        "name": "Lotus Jewelry Holder",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "holders"
+    },
+    {
+        "id": 22,
+        "img": "images/h4.png",
+        "name": "Blue Resin Jewelry Holder",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "holders"
+    },
+    {
+        "id": 23,
+        "img": "images/h5.png",
+        "name": "Wooden Display Stand",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "holders"
+    },
+    {
+        "id": 24,
+        "img": "images/h6.png",
+        "name": "Tiered Wooden Stand",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "holders"
+    },
+    {
+        "id": 25,
+        "img": "images/t1.png",
+        "name": "Serving Tray Set",
+        "minPrice": 400,
+        "maxPrice": 899,
+        "category": "tray"
+    }
+]
