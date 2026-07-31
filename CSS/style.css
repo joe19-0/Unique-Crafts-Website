@@ -1350,4 +1350,7 @@ footer .links .link a i {
     .cart .cart-bottom .btns .checkout-btn, .cart .cart-bottom .btns .shop-more-btn {
         font-size: 14px;
     }
+    .card .reviews .review img  {
+        width: 200px;
+    }
 }
