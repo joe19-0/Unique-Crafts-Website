@@ -89,7 +89,7 @@ form.onsubmit = function () {
             localStorage.setItem("orderSuccess", "true")
             window.location.reload()
             window.location.href = "../index.html"
-        }, 3000)
+        }, 0)
     })
     .catch(function (error) {
         return console.error("error!", error.message)
